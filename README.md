@@ -1,4 +1,4 @@
-# hagaralifullstack-cpu# Hi there, I'm Hagar Ali 👋
+# Hi there, I'm Hagar Ali 👋
 
 ## 👨‍💻 Who Am I?
 I am an Accounting student and a passionate Full-Stack Web Developer based in Assiut, Egypt. I enjoy turning practical ideas and everyday challenges into clean, functional, and user-friendly web applications.
